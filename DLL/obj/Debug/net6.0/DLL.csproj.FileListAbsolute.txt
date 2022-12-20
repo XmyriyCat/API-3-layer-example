@@ -1,0 +1,12 @@
+D:\Projects\GitTestProj\Matrix-mul\DLL\bin\Debug\net6.0\DLL.deps.json
+D:\Projects\GitTestProj\Matrix-mul\DLL\bin\Debug\net6.0\DLL.dll
+D:\Projects\GitTestProj\Matrix-mul\DLL\bin\Debug\net6.0\DLL.pdb
+D:\Projects\GitTestProj\Matrix-mul\DLL\obj\Debug\net6.0\DLL.csproj.AssemblyReference.cache
+D:\Projects\GitTestProj\Matrix-mul\DLL\obj\Debug\net6.0\DLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GitTestProj\Matrix-mul\DLL\obj\Debug\net6.0\DLL.AssemblyInfoInputs.cache
+D:\Projects\GitTestProj\Matrix-mul\DLL\obj\Debug\net6.0\DLL.AssemblyInfo.cs
+D:\Projects\GitTestProj\Matrix-mul\DLL\obj\Debug\net6.0\DLL.csproj.CoreCompileInputs.cache
+D:\Projects\GitTestProj\Matrix-mul\DLL\obj\Debug\net6.0\DLL.dll
+D:\Projects\GitTestProj\Matrix-mul\DLL\obj\Debug\net6.0\refint\DLL.dll
+D:\Projects\GitTestProj\Matrix-mul\DLL\obj\Debug\net6.0\DLL.pdb
+D:\Projects\GitTestProj\Matrix-mul\DLL\obj\Debug\net6.0\ref\DLL.dll
