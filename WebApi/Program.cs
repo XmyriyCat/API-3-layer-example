@@ -14,7 +14,9 @@ namespace WebApi
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
-            builder.Services.AddScoped(typeof(CatalogService));
+            
+            builder.Services.AddScoped<Repository>();
+            builder.Services.AddScoped<CatalogService>();
 
             var app = builder.Build();
 
